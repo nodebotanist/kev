@@ -15,7 +15,7 @@
 }
 
 .med-blue-bg {
-    color: #aac0cd;
+    background-color: #aac0cd;
 }
 
 .med-blue {
@@ -23,7 +23,7 @@
 }
 
 .med-dark-blue-bg {
-    color: #6e88ad;
+    background-color: #6e88ad;
 }
 
 .med-dark-blue {
@@ -36,4 +36,8 @@
 
 .pink {
     color: #f8abbf;
+}
+
+body {
+    padding: 2rem;
 }
